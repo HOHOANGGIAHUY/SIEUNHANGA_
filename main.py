@@ -8,7 +8,7 @@ class MainWindow(QMainWindow):
   def __init__(self):
     super().__init__()
     # Load trực tiếp file .ui mà không cần thông qua PyUIC nữa
-    uic.loadUi("GiaiPhuongTrinhBac1.ui", self)
+    uic.loadUi("exsieunhangao.ui", self)
 
     # Kết nối sự kiện nút bấm
     self.btnGiai.clicked.connect(self.xu_ly_giai)
