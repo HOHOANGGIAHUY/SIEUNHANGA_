@@ -15,7 +15,7 @@
   </property>
   <property name="windowIcon">
    <iconset>
-    <normaloff>../images/hinh-anh-chibi-sieu-nhan-5-anh-em-gao.jpg</normaloff>../images/hinh-anh-chibi-sieu-nhan-5-anh-em-gao.jpg</iconset>
+    <normaloff>C:/Users/TranDung/.designer/images/hinh-anh-chibi-sieu-nhan-5-anh-em-gao.jpg</normaloff>C:/Users/TranDung/.designer/images/hinh-anh-chibi-sieu-nhan-5-anh-em-gao.jpg</iconset>
   </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QLabel" name="label_4">
@@ -196,7 +196,7 @@ background-color: rgb(127, 127, 95);</string>
      </property>
      <property name="icon">
       <iconset>
-       <normaloff>../images/calculator.png</normaloff>../images/calculator.png</iconset>
+       <normaloff>C:/Users/TranDung/.designer/images/calculator.png</normaloff>C:/Users/TranDung/.designer/images/calculator.png</iconset>
      </property>
     </widget>
     <widget class="QPushButton" name="btnThoat">
@@ -217,7 +217,7 @@ background-color: rgb(127, 127, 95);</string>
      </property>
      <property name="icon">
       <iconset>
-       <normaloff>../../midterm2/images/clear.png</normaloff>../../midterm2/images/clear.png</iconset>
+       <normaloff>C:/Users/TranDung/midterm2/images/clear.png</normaloff>C:/Users/TranDung/midterm2/images/clear.png</iconset>
      </property>
     </widget>
     <widget class="QLabel" name="label_5">
