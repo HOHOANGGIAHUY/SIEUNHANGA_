@@ -11,7 +11,11 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>sieunhangao</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>../images/hinh-anh-chibi-sieu-nhan-5-anh-em-gao.jpg</normaloff>../images/hinh-anh-chibi-sieu-nhan-5-anh-em-gao.jpg</iconset>
   </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QLabel" name="label_4">
